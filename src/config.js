@@ -57,7 +57,7 @@
 
     // 附加信息内容
     // left label
-    itemLabel: "部门产量TOP1：",
+    itemLabel: "部门销售TOP1：",
 
     // right label
     typeLabel: "累计销售额：单位（元）",
